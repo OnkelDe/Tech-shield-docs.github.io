@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Tech-shield-docs.github.io/al-folio/sitemap.xml
